@@ -1,11 +1,13 @@
 ## Hi there 👋
+More About Me
 
+```js
 // TheShubhamIO
 
 const Shubham Sardar = {     
     pronouns: "He" | "Him",
-    coreSkill: "Creativity",
     aboutMe: "I'm a Full-stack Developer with lots and lots of Passion =)",
+    coreSkill: "Creativity",
     language: ["javaScript", "typeScript"],
     myStack: {             
         frontEnd: {             
@@ -22,3 +24,4 @@ const Shubham Sardar = {
    currentFocus: "Front-end",     
    motto: "If it works don't touch it ,but it never does 😅",
 };
+```
