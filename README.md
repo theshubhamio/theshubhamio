@@ -3,7 +3,7 @@ More About Me
 
 ```js
 
-const TheShubhamIO = {     
+const Shubham = {     
     pronouns: "He" | "Him",
     aboutMe: "I'm a Full-stack Developer with lots and lots of Passion =)",
     coreSkill: "Creativity",
