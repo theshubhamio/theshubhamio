@@ -5,7 +5,7 @@ More About Me
 
 const Shubham = {     
     pronouns: "He" | "Him",
-    aboutMe: "I'm a Full-stack Developer with lots and lots of Passion =)",
+    aboutMe: "A Full-stack Developer",
     coreSkill: "Creativity",
     language: ["javaScript", "typeScript"],
     myStack: {             
